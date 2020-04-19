@@ -1,4 +1,4 @@
-# artificial_intelligence
+# MIT 6.034
 Solutions to MITs Introduction to Artificial Intelligence 6.034
 
 During my time at MIT, i took course 6.034 in which we implemented many well known AI algorithms.
